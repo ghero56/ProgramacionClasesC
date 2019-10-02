@@ -1,5 +1,5 @@
 Repositorio Creado por:
-Arciga Guzmán Fernando
+Arciga Guzmán Fernando\n
 Castañeda Mora Carlos
 
 Repositorio para los problemas de programacion 30/09/2019
