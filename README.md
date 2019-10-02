@@ -1,6 +1,5 @@
 Repositorio Creado por:
-Arciga Guzmán Fernando\n
-Castañeda Mora Carlos
+Arciga Guzmán Fernando y Castañeda Mora Carlos
 
 Repositorio para los problemas de programacion 30/09/2019
 aqui añadiremos los codigos en c sin compilar, ya que linux lo hace de una forma y windows en otra.
